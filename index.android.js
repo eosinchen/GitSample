@@ -25,6 +25,7 @@ export default class GitSample extends Component {
         <Text style={styles.instructions}>
           Shake or press menu button for dev menu - 12345
           ABC
+          分支 Branch 1
           第二次修改
           03:45
         </Text>
