@@ -25,8 +25,8 @@ export default class GitSample extends Component {
         <Text style={styles.instructions}>
           Shake or press menu button for dev menu - 12345
           ABC
-          第一次修改
-          03:34
+          第二次修改
+          03:45
         </Text>
       </View>
     );
